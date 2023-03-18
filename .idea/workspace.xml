@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ef1351-939a-4df4-9a6d-57310ea9288b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/2b0d9b36-46a8-41b1-a1e0-4c324526f24b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8fe40dfd-24f7-46b9-acd6-9ce88b3e4bb6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9b7db377-b1c4-476f-afff-0ebf03396fdb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a68261f2-eacf-4c46-bab0-dfca1ffb8219-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ddf21334-0902-47b1-aa8a-31cf42efb155-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e40bd24-e7de-4141-b2ae-8bedf764b8f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33505fd3-6b5b-455f-a32e-b90f91f7a83e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78852f12-a412-43da-b922-d32f698c9b94-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84f09095-9176-4c14-911f-152428c1b803-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cfdb29bc-65e9-4517-884b-1f347699cca3-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <workItem from="1679162377249" duration="615000" />
       <workItem from="1679163022380" duration="1634000" />
       <workItem from="1679169211626" duration="5366000" />
-      <workItem from="1679174795594" duration="158000" />
+      <workItem from="1679174795594" duration="1763000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "successOrderTest()",
+    "uid" : "8e6d0236986ca45c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1679176094177,
+      "stop" : 1679176095637,
+      "duration" : 1460
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "invalidLoginTest()",
+    "uid" : "a39943b30bcde709",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1679176095879,
+      "stop" : 1679176096386,
+      "duration" : 507
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

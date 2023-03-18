@@ -34,8 +34,7 @@ public class TestCase {
         driver.get(ConfProperties.getProperty("login-page"));
     }
     @Test
-    public void loginTest() {
-
+    public void successOrderTest() {
 
         loginPage.inputLogin(ConfProperties.getProperty("login"));
 

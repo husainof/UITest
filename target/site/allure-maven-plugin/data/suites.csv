@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","org.example.TestCase.invalidLoginTest","507",""
+"failed","org.example.TestCase.successOrderTest","1460",""
