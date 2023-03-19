@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.concurrent.TimeUnit;
-public class TestCase {
+public class TestCases {
     public static LoginPage loginPage;
     public static CartPage cartPage;
     public static InventoryPage inventoryPage;
@@ -21,23 +21,28 @@ public class TestCase {
      */
     @BeforeAll
     public static void setup() {
-        System.setProperty("webdriver.chrome.driver", ConfProperties.getProperty("chromedriver"));
+
+        String path = System.getProperty("user.dir");
+        System.setProperty("webdriver.chrome.driver",path+"\\resources\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
         driver = new ChromeDriver(options);
+
         loginPage = new LoginPage(driver);
         cartPage = new CartPage(driver);
         inventoryPage = new InventoryPage(driver);
         checkoutPage = new CheckoutPage(driver);
+
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get(ConfProperties.getProperty("login-page"));
+
     }
     @Test
     public void successOrderTest() {
 
-        loginPage.inputLogin(ConfProperties.getProperty("login"));
+        driver.get(ConfProperties.getProperty("login-page"));
 
+        loginPage.inputLogin(ConfProperties.getProperty("login"));
         loginPage.inputPassword(ConfProperties.getProperty("password"));
 
         loginPage.clickLoginBtn();
@@ -64,9 +69,11 @@ public class TestCase {
     @Test
     public void invalidLoginTest() {
         driver.get(ConfProperties.getProperty("login-page"));
+
         loginPage.inputLogin(ConfProperties.getProperty("invalid-login"));
         loginPage.inputPassword(ConfProperties.getProperty("invalid-password"));
         loginPage.clickLoginBtn();
+
         Assertions.assertEquals(ConfProperties.getProperty("error-message"), loginPage.getErrorMessage());
     }
     @AfterAll
