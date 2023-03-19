@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ef1351-939a-4df4-9a6d-57310ea9288b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/test-cases/8e6d0236986ca45c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/test-cases/a39943b30bcde709.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/summary.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ILSUR\Desktop\tests\UITest" />
       <recent name="C:\Users\ILSUR\Desktop\tests\UITest\resources" />
       <recent name="C:\Users\ILSUR\Desktop\tests\UITest\src\test\resources" />
       <recent name="C:\Users\ILSUR\Desktop\program\UITest\src\test\resources" />
@@ -139,6 +94,7 @@
       <workItem from="1679176872726" duration="321000" />
       <workItem from="1679209244720" duration="1677000" />
       <workItem from="1679210948598" duration="616000" />
+      <workItem from="1679211801225" duration="794000" />
     </task>
     <servers />
   </component>

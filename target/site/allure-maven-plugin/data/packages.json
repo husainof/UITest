@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "org.example.TestCases",
+    "children" : [ {
+      "name" : "successOrderTest",
+      "uid" : "b43f232286d14a26",
+      "parentUid" : "5fdc207c524d6d6f95b03eed076a379d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1679211253310,
+        "stop" : 1679211256550,
+        "duration" : 3240
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "invalidLoginTest",
+      "uid" : "cee9d941d3f5b10d",
+      "parentUid" : "5fdc207c524d6d6f95b03eed076a379d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679211256747,
+        "stop" : 1679211257200,
+        "duration" : 453
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "org.example.TestCases"
+  } ]
+}

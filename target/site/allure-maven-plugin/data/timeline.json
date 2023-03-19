@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-RT5ESV4",
+    "children" : [ {
+      "name" : "5848@DESKTOP-RT5ESV4.main(1)",
+      "children" : [ {
+        "name" : "successOrderTest()",
+        "uid" : "b43f232286d14a26",
+        "parentUid" : "0595a97a3b52a03fb60ab69e1721b4fc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679211253310,
+          "stop" : 1679211256550,
+          "duration" : 3240
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "invalidLoginTest()",
+        "uid" : "cee9d941d3f5b10d",
+        "parentUid" : "0595a97a3b52a03fb60ab69e1721b4fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679211256747,
+          "stop" : 1679211257200,
+          "duration" : 453
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0595a97a3b52a03fb60ab69e1721b4fc"
+    } ],
+    "uid" : "ea3a512b584c93d96e80fcd7edadb0f5"
+  } ]
+}

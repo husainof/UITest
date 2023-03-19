@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "org.example.TestCases",
+    "children" : [ {
+      "name" : "successOrderTest()",
+      "uid" : "b43f232286d14a26",
+      "parentUid" : "716429b61c4d4d2f824fe2feca1eca5c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1679211253310,
+        "stop" : 1679211256550,
+        "duration" : 3240
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "invalidLoginTest()",
+      "uid" : "cee9d941d3f5b10d",
+      "parentUid" : "716429b61c4d4d2f824fe2feca1eca5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679211256747,
+        "stop" : 1679211257200,
+        "duration" : 453
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "716429b61c4d4d2f824fe2feca1eca5c"
+  } ]
+}
