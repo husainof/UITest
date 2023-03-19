@@ -8,6 +8,8 @@
 4. Запустите тесты (файл TestCases.java)
 5. Открыть веб-интерфейс c отчётом allure можно командой `mvn allure:serve`
 
+Примечание: есть возможность открыть веб-интерфейс allure без установки, запустив файл target/site/index.html.
+
 ## Тест-кейсы
 
 ### Кейс 1. Проверка успешной покупки
@@ -46,6 +48,9 @@ https://www.saucedemo.com/checkout-complete.html
 1. На странице появилось сообщение: “Epic sadface: Username and password do not match any
 user in this service”
 
+## Результаты тестирования
 
+![allure1](https://user-images.githubusercontent.com/124812541/226161853-20755375-deae-42cf-9af2-da2c4d35de02.png)
 
+![allure2](https://user-images.githubusercontent.com/124812541/226161858-dd65faab-e2f1-4232-afb6-c73cc873b6cd.png)
 
